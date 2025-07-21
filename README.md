@@ -32,7 +32,7 @@
 
 --
 
-[Table D.1. Vulnerability score of 34 locations in October, November, and December 2023]()
+[Table D.1. Vulnerability score of 34 locations in October, November, and December 2023](Table%20D.1.%20Vulnerability%20score%20of%2034%20locations%20in%20October%2C%20November%2C%20and%20December%202023.xlsx)
 
 --
 
