@@ -24,7 +24,7 @@
 
 [Table C.1. Value of the PVI1 metric for December 2023](Table%20C.1.%20Value%20of%20the%20PVI1%20metric%20for%20December%202023.xlsx)
 
-[Table C.2. Value of PVI, VDF, VEF, and VI for December 2023])(Table%20C.2.%20Value%20of%20PVI%2C%20VDF%2C%20VEF%2C%20and%20VI%20for%20December%202023.xlsx)
+[Table C.2. Value of PVI, VDF, VEF, and VI for December 2023](Table%20C.2.%20Value%20of%20PVI%2C%20VDF%2C%20VEF%2C%20and%20VI%20for%20December%202023.xlsx)
 
 [Table C.3. Value of the PVI2 metric for December 2023](Table%20C.3.%20Value%20of%20the%20PVI2%20metric%20for%20December%202023.xlsx)
 
