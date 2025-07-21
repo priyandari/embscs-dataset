@@ -2,13 +2,13 @@
 
 **Dataset for calculating VI (vulnerability Score) in 34 stations**
 
-[Table A.1. Value of the PVI1 metric for October 2023](Table A.1. Value of the PVI1 metric for October 2023.xlsx)
+[Table A.1. Value of the PVI1 metric for October 2023](Table%20A.1.%20Value%20of%20the%20PVI1%20metric%20for%20October%202023.xlsx)
 
 [Table A.2. Value of PVI, VDF, VEF, and VI for October 2023]
 
-[Table A.3. Value of the PVI2 metric for October 2023](Table A.3. Value of the PVI2 metric for October 2023.xlsx)
+[Table A.3. Value of the PVI2 metric for October 2023](Table%20A.3.%20Value%20of%20the%20PVI2%20metric%20for%20October%202023.xlsx)
 
-[Table A.4. Value of the PVI3 metric for October 2023](Table A.4. Value of the PVI3 metric for October 2023.xlsx)
+[Table A.4. Value of the PVI3 metric for October 2023](Table%20A.4.%20Value%20of%20the%20PVI3%20metric%20for%20October%202023.xlsx)
 
 --
 
