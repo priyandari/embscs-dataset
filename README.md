@@ -42,6 +42,12 @@
 
 [PI_1_Throughput_November](PI_1_Throughput_November.csv)
 
-[PI_1_Throughput_November](PI_1_Throughput_December.csv)
+[PI_1_Throughput_December](PI_1_Throughput_December.csv)
+
+[PI_2_Unique_Batteries_Swapped_October](PI_2_Unique_batteries_October.csv)
+
+[PI_2_Unique_Batteries_Swapped_November](PI_2_Unique_batteries_November.csv)
+
+[PI_2_Unique_Batteries_Swapped_December](PI_2_Unique_batteries_December.csv)
 
 
