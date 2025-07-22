@@ -50,9 +50,9 @@
 
 [PI_2_Unique_Batteries_Swapped_December](PI_2_Unique_batteries_December.csv)
 
-[PI_3_Battery-swapping_customer_October.csv](PI_3_Battery-swapping_customer_October.csv)
+[PI_3_Battery-swapping_customer_October](PI_3_Battery-swapping_customer_October.csv)
 
-[PI_3_Battery-swapping_customer_November.csv](PI_3_Battery-swapping_customer_November.csv)
+[PI_3_Battery-swapping_customer_November](PI_3_Battery-swapping_customer_November.csv)
 
-[PI_3_Battery-swapping_customer_December.csv](PI_3_Battery-swapping_customer_December.csv)
+[PI_3_Battery-swapping_customer_December](PI_3_Battery-swapping_customer_December.csv)
 
